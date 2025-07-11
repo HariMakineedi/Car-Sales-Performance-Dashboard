@@ -21,7 +21,7 @@ You can download the dataset used in this project here:
  **How do MTD sales compare to YTD?**  
  **Which transmission type sells better: Automatic or Manual?**  
  **What is each region's % contribution to total sales?**
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **SQL** – Data extraction, filtering, aggregation, and transformation  
 - **Power BI** – Data modeling, KPI design, interactive dashboard creation  
