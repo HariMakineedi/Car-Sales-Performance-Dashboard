@@ -53,3 +53,12 @@ You can download the dataset used in this project here:
 - Compared MTD vs YTD performance
 - Highlighted strategic metrics for business decision-making
 
+  ## Dashboard Preview
+
+![Car Sales Dashboard](https://github.com/HariMakineedi/Car-Sales-Performance-Dashboard/blob/main/Car-sales-Dashboard.png)
+
+##  Conclusion
+
+This project successfully demonstrates how business intelligence tools like **Power BI** can transform raw sales data into actionable insights. By analyzing year-to-date and month-to-date car sales across multiple dimensions such as region, body style, engine type, and dealer performance, the dashboard helps stakeholders monitor KPIs, spot trends, and make informed strategic decisions. The interactive visualizations offer a clear, user-friendly view of performance metrics, supporting data-driven decision-making in the automotive sales domain.
+
+
